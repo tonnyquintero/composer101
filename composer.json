@@ -5,7 +5,7 @@
             "Text\\": "src/"
         },
         "files": [
-            "helper.php"
+            "src/helper.php"
         ]
     }
 }
